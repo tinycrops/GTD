@@ -1,1 +1,8 @@
 .env
+__pycache__/
+.ipynb_checkpoints/
+biometric_data/
+biometric_env/
+biometric_config.json
+user_config_matthew.json
+logs/
